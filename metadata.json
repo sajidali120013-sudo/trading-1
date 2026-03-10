@@ -1,0 +1,5 @@
+{
+  "name": "Visual Trading Intelligence AI",
+  "description": "Analyzes XAUUSD and DXY charts to generate trading signals based on the Core 3 + Action + DXY strategy.",
+  "requestFramePermissions": []
+}
